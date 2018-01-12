@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jiang Shu</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Jiang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A new statistical model for genome-scale microRNA target prediction</title>
+      <link>/publication/mirna-target-prediction/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-target-prediction/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic and modularized microRNA regulation and its implication in human cancers</title>
+      <link>/publication/mirna-dynamic-regulation/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-dynamic-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new system for human microRNA functional evaluation and network construction</title>
+      <link>/publication/mirna-similarity-assessment/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-similarity-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pluralistic and stochastic gene regulation: examples, models, and consistent theory</title>
+      <link>/publication/tf-co-regulation/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tf-co-regulation/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human absorbable dietary microRNAs prediction based on an ensemble manifold ranking model</title>
+      <link>/publication/mirna-cross-transportation-bibm/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-cross-transportation-bibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational characterization of exogenous microRNAs that can be transferred into human circulation</title>
+      <link>/publication/mirna-cross-transportation/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-cross-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dietary MicroRNA Database (DMD): An archive database and analytic tool for microRNAs in human foods</title>
+      <link>/publication/mirna-dmd/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-dmd/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

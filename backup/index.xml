@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backups on Jiang Shu</title>
+    <link>/backup/</link>
+    <description>Recent content in Backups on Jiang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/backup/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Academic</title>
+      <link>/backup/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/backup/hero/</guid>
+      <description>&lt;p&gt;The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+&lt;br&gt;
+&lt;small&gt;&lt;a id=&#34;academic-release&#34; href=&#34;https://sourcethemes.com/academic/tags/updates&#34;&gt;Latest release&lt;/a&gt;&lt;/small&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;160px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=fork&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;158px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  (function defer() {
+    if (window.jQuery) {
+      jQuery(document).ready(function(){
+        GetLatestReleaseInfo();
+      });
+    } else {
+      setTimeout(function() { defer() }, 50);
+    }
+  })();  
+  function GetLatestReleaseInfo() {
+    $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) {
+      let release = json[0];
+      // let downloadURL = release.zipball_url;
+      $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name);  
+    });    
+}  
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/backup/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/backup/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/backup/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/backup/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
