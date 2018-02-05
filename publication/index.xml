@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A systematic approach to RNA-associated motif discovery</title>
+      <link>/publication/mds2/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mds2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A new statistical model for genome-scale microRNA target prediction</title>
       <link>/publication/mirna-target-prediction/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
